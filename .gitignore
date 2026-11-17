@@ -1,0 +1,4 @@
+library
+data/library.txt
+demo_library.txt
+*.o
